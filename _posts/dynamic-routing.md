@@ -1,6 +1,6 @@
 ---
 title: 'What's past is prologue.'
-excerpt: 'Every so often we reach an inflection point in our life and finally take the time to take stock of our surroundings. Here's hoping this new look will help us move forward. '
+excerpt: 'Every so often we reach an inflection point in our life and finally take the time to take stock of our surroundings. Heres hoping this new look will help us move forward. '
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
