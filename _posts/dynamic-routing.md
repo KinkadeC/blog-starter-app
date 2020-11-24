@@ -1,5 +1,5 @@
 ---
-title: 'What&apos;s past is prologue'
+title: 'What &apos; s past is prologue'
 excerpt: 'Every so often we reach an inflection point in our life and finally take the time to take stock of our surroundings. The cruising we do on autopilot makes the days go by faster, but at the cost of our awareness. '
 coverImage: '/assets/blog/general_images/UWashington_Library_Helen Ngoc N-unsplash.jpg'
 date: '2020-03-16T05:35:07.322Z'
