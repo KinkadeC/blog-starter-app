@@ -1,10 +1,10 @@
 ---
-title: 'What &apos; s past is prologue'
+title: "What's past is prologue."
 excerpt: 'Every 55 so often we reach an inflection point in our life and finally take the time to take stock of our surroundings. The cruising we do on autopilot makes the days go by faster, but at the cost of our awareness. '
 coverImage: '/assets/blog/general_images/UWashington_Library_Helen Ngoc N-unsplash.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2020-11-24T05:35:07.322Z'
 author:
-  name: JJ Kasper
+  name: CJ
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
