@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Context is for kings {CMS_NAME}</title>
+          <title>Context is for kings.</title>
         </Head>
         <Container>
           <Intro />
