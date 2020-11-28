@@ -1,11 +1,11 @@
 ---
 title: 'Misfired hatred.'
 excerpt: 'How can people that have never met or have minimal understanding of each other hold animosity towards one another?'
-coverImage: '/assets/blog/hello-world/bruno-emmanuelle-l9KACkHgW5E-unsplash_medium.jpg'
+coverImage: '/assets/blog/general_images/bruno-emmanuelle-l9KACkHgW5E-unsplash_medium.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: CJ
-  picture: '/assets/blog/authors/bruno-emmanuelle-l9KACkHgW5E-unsplash_medium.jpg'
+  picture: '/assets/blog/authors/tim.jpeg'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
